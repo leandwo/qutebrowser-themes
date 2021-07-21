@@ -11,3 +11,4 @@
    ```
    config.source('onedark.py')
    ```
+3. Restart qutebrowser using `:restart`
