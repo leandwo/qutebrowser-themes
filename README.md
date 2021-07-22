@@ -1,9 +1,8 @@
 ## About
-A collection of themes for qutebrowser. 
+A growing collection of themes for qutebrowser. 
 
-There are not many themes here yet. Feel free to add your own!
+This repo was originally inspired by [dexpota/kitty-themes](https://github.com/dexpota/kitty-themes) and [theova/base16-qutebrowser](https://github.com/theova/base16-qutebrowser). However, we will not require themes to comply with the [base16 guidelines](https://github.com/chriskempson/base16/blob/master/styling.md).
 
-This repo was originally inspired by [theova/base16-qutebrowser](https://github.com/theova/base16-qutebrowser) (however we don't adhere to the [base16 guidelines](https://github.com/chriskempson/base16/blob/master/styling.md))
 
 ## Install
 
