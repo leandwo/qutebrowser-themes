@@ -13,12 +13,15 @@ This repo was originally inspired by [theova/base16-qutebrowser](https://github.
    git clone https://github.com/leosolid/qutebrowser-themes ~/.qutebrowser
    ```
    
-2. Set theme using at the _end_ of your `config.py` file.
+2. Set theme using at the _end_ of your `config.py` file:
    
    ```python
    config.source('qutebrowser-themes/themes/onedark.py')
    ```
-3. Load the theme in qutebrowser using `:config-source` or `:restart`
+3. Restart qutebrowser or reload your config with: 
+   ```
+   :config-source
+   ```
 
 ## Previews
 
