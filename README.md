@@ -3,7 +3,7 @@ A collection of themes for qutebrowser.
 
 There are not many themes here yet. Feel free to add your own!
 
-This repo was originally inspired by [theo/base16-qutebrowser](https://github.com/theova/base16-qutebrowser) (however this repo doesn't strictly adhere to the [base16 standard](https://github.com/chriskempson/base16/blob/master/styling.md))
+This repo was originally inspired by [theo/base16-qutebrowser](https://github.com/theova/base16-qutebrowser) (however this repo doesn't strictly adhere to the [base16 guidelines](https://github.com/chriskempson/base16/blob/master/styling.md))
 
 ## Install
 
