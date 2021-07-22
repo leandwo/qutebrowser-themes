@@ -16,4 +16,5 @@ This repo was originally inspired by [theo/base16-qutebrowser](https://github.co
    ```
    config.source('qutebrowser-themes/themes/onedark.py')
    ```
-3. Restart qutebrowser using `:restart`
+3. Load the theme in qutebrowser using `:config-source` or `:restart`
+
