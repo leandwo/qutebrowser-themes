@@ -7,13 +7,13 @@ This repo was originally inspired by [theo/base16-qutebrowser](https://github.co
 
 1. Clone this repo into your `.qutebrowser` directory:
 
-   ```
+   ```zsh
    git clone https://github.com/leosolid/qutebrowser-themes ~/.qutebrowser
    ```
    
 2. Set theme using at the _end_ of your `config.py` file.
    
-   ```
+   ```python
    config.source('qutebrowser-themes/themes/onedark.py')
    ```
 3. Load the theme in qutebrowser using `:config-source` or `:restart`
