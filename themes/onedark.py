@@ -1,3 +1,5 @@
+# credits to theova/base16-qutebrowser for the original template
+
 ##########
 # COLORS #
 ##########
@@ -21,7 +23,6 @@ bg_passthrough_mode = "#56b6c2" # teal
 bg_insert_mode = "#61afef"      # blue
 bg_warning = "#c678dd"          # purple
 # "#be5046"                     # dark red
-
 
 ############
 # SETTINGS #
